@@ -17,4 +17,20 @@ nav_order: 2
 
 {% bibliography %}
 
+- **Bivas Bhaumik**, **Shivam Chaturvedi**, *Satyasaran Changdar*, *Soumen De*.  
+  **A unique physics-aided deep learning model for predicting viscosity of nanofluids**,  
+  *International Journal for Computational Methods in Engineering Science and Mechanics*, **24**(3), 167–181, 2023. [Taylor & Francis](https://www.tandfonline.com/toc/ucme20/current)
+
+- **Anand M. Verma**, **Shivam Chaturvedi**, *Swastik Paul*, *Srinibas Nandi*, *Rahul Sheshanarayana*, *Kotni Santhosh*, *G. Valavarasu*, *Ambedkar Dukkipati*, *Chuandayani Gunawan Gwie*, *Pei Ying Moo*, *et al.*  
+  **Data-driven massive reaction networks reveal new pathways underlying catalytic CO$_2$ hydrogenation**,  
+  *ChemRxiv Preprint*, 2025. [Link](https://chemrxiv.org) <!-- update with actual URL when available -->
+
+- **Raghavendra Rajagopalan**, **Shivam Chaturvedi**, *Neeru Chaudhary*, *Abhijit Gogoi*, *Tej S. Choksi*, *Ananth Govind Rajan*.  
+  **Advances in CO$_2$ reduction on bulk and two-dimensional electrocatalysts: From first principles to experimental outcomes**,  
+  *Current Opinion in Electrochemistry*, **51**, 101668, 2025. [Elsevier](https://www.journals.elsevier.com/current-opinion-in-electrochemistry)
+
+- **Shivam Chaturvedi**, *Amar Deep Pathak*, *Nishant Sinha*, *Ananth Govind Rajan*.  
+  **Transient Microkinetic Modeling of Electrochemical Reactions: Capturing Unsteady Dynamics of CO Reduction and Oxygen Evolution**,  
+  Manuscript in preparation, 2025.
+
 </div>
