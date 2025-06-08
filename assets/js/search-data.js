@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-review-paper-about-modelling-co2-reduction-is-accepted-in-current-opinion-in-electrochemistry",
+          title: 'Our review paper about modelling CO2 reduction is accepted in Current Opinion in...',
           description: "",
           section: "News",},{id: "news-a-simple-inline-announcement-our-paper-titled-transient-microkinetic-modeling-of-electrochemical-mechanisms-towards-understanding-the-dynamics-of-co-reduction-and-oxygen-evolution-is-accepted-to-aiche-2025-in-boston-ma",
           title: 'A simple inline announcement. Our paper titled “Transient Microkinetic Modeling of Electrochemical Mechanisms:...',
