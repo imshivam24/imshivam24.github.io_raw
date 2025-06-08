@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - imshivam24
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - agrgroup/MassiveReactionNetworks
+  - imshivam24/Transient-Microkinetic-Modeling-of-Electrochemical-Reactions
+  - imshivam24/predicting-water-permeability-constant
